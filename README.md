@@ -1,4 +1,4 @@
-###⭐ Hola! Soy Gabriel ⭐
+    ⭐ Hola! Soy Gabriel ⭐
 
 ¿Quién soy?
 Soy un Programador Fullstack apasionado por la tecnología que le encanta vivir aprendiendo.
